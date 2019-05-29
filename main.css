@@ -54,6 +54,7 @@
     flex-wrap: wrap;
     margin: 25px;
     flex-direction: row;
+    flex-basis: 50%;
 }
 
 .personal-img {
