@@ -40,3 +40,25 @@
 }
 
 /* End Main page CSS */
+
+/* Personal page CSS */
+
+.personal-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.personal-page-cards{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+    flex-direction: row;
+    flex-basis: 50%;
+}
+
+.personal-img {
+    width: 180px;
+    height: 230px;
+}
+/* End Main page CSS */
