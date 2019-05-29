@@ -1,6 +1,13 @@
 .career_title {
     font-family: 'Neucha', cursive;
     font-variant: small-caps;
+    text-shadow: 3px 4px;
+}
+
+.career_IMG {
+    width: 500px;
+    margin: auto;
+    margin-top: 40px;
 }
 
 .card {
@@ -8,18 +15,13 @@
     flex-direction: row;
 }
 
-.career_title > p {
-font-family: 'Gloria Hallelujah', cursive;
-}
-
 li {
     list-style: none;
 }
 
-
-.career_hits {
-    font-family: 'Neucha', cursive;
-    font-variant: small-caps;
+.flex_id {
+    display: flex;
+    justify-content: space-around;
 }
 
 .career_card {
@@ -30,6 +32,7 @@ li {
     font-family: 'Neucha', cursive;
     font-variant: small-caps;
 }
+/* Main page CSS */
 
 .carousel {
     width: 1000px;
@@ -37,19 +40,28 @@ li {
     margin-top: 40px;
 }
 
-.card {
+/* CSS for cards */
+
+.main-page-cards {
     margin: 30px;
 }
 
-.card-title {
+.main-card-title {
     margin: 12px;
     text-align: center;
 }
 
-.container {
+.main-page-container {
     display:flex;
     justify-content: center;
     margin-bottom: 40px;
+}
+
+/* CSS for Footer */
+
+.footer-container{
+    display:flex;
+    justify-content: center;
 }
 
 .icons {
@@ -60,3 +72,5 @@ li {
     background-color: mediumseagreen;
     margin-bottom: 30px;
 }
+
+/* End Main page CSS */
