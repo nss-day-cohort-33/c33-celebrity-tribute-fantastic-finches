@@ -1,0 +1,29 @@
+.carousel {
+    width: 1000px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.card {
+    margin: 30px;
+}
+
+.card-title {
+    margin: 12px;
+    text-align: center;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.icons {
+    margin-top: 25px;
+}
+
+.footer {
+    background-color: mediumseagreen;
+    margin-bottom: 30px;
+}
