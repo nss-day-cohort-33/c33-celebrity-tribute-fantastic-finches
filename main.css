@@ -1,3 +1,37 @@
+.career_title {
+    font-family: 'Neucha', cursive;
+    font-variant: small-caps;
+    text-shadow: 3px 4px;
+}
+
+.career_IMG {
+    width: 500px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    list-style: none;
+}
+
+.flex_id {
+    display: flex;
+    justify-content: space-around;
+}
+
+.career_card {
+    width: 1000px;
+}
+
+.career_awards {
+    font-family: 'Neucha', cursive;
+    font-variant: small-caps;
+}
 /* Main page CSS */
 
 .carousel {
