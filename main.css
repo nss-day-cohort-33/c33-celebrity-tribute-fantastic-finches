@@ -1,7 +1,22 @@
-.career_title {
-    font-family: 'Neucha', cursive;
+body {
+    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'ZCOOL KuaiLe', cursive; */
+    background-color: rgb(236, 172, 129);
+}
+
+.cool-font {
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+
+/* .career_title {
     font-variant: small-caps;
-    text-shadow: 3px 4px;
+} */
+
+.top-card-career{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .career_IMG {
@@ -29,7 +44,6 @@ li {
 }
 
 .career_awards {
-    font-family: 'Neucha', cursive;
     font-variant: small-caps;
 }
 /* Main page CSS */
@@ -95,4 +109,4 @@ li {
     width: 180px;
     height: 230px;
 }
-/* End Main page CSS */
+/* End Personal page CSS */
