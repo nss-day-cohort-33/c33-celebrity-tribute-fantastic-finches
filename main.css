@@ -8,9 +8,11 @@ body {
     font-family: 'ZCOOL KuaiLe', cursive;
 }
 
-/* .career_title {
-    font-variant: small-caps;
-} */
+
+.career_title {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-align: center;
+}
 
 .top-card-career{
     margin-top: 10px;
@@ -31,6 +33,11 @@ body {
 
 li {
     list-style: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h5 {
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 .flex_id {
