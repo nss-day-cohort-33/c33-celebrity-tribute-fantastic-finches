@@ -9,9 +9,10 @@ body {
 }
 
 
-/* .career_title {
-    font-variant: small-caps;
-} */
+.career_title {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-align: center;
+}
 
 .top-card-career{
     margin-top: 10px;
