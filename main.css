@@ -1,13 +1,12 @@
+
 body {
-    font-family: 'Open Sans', sans-serif;
-    /* font-family: 'ZCOOL KuaiLe', cursive; */
     background-color: rgb(236, 172, 129);
+    font-family: 'Open Sans', sans-serif;
 }
 
 .cool-font {
     font-family: 'ZCOOL KuaiLe', cursive;
 }
-
 
 /* .career_title {
     font-variant: small-caps;
