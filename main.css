@@ -1,7 +1,5 @@
-.career_title {
-    font-family: 'Neucha', cursive;
-    font-variant: small-caps;
-    text-shadow: 3px 4px;
+h1 {
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 .career_IMG {
@@ -17,6 +15,11 @@
 
 li {
     list-style: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h5 {
+    font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 .flex_id {
